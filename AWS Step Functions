@@ -1,19 +1,19 @@
 # AWS Step Functions - Aprendizado e Experimentos
 
-## 📝 Descrição
+## Descrição
 Este repositório reúne anotações, exemplos e insights adquiridos durante o estudo das **AWS Step Functions**, serviço da AWS que permite criar **workflows serverless** para orquestrar múltiplos serviços da nuvem de forma visual e automatizada.
 
 O objetivo deste material é servir como referência para práticas futuras, estudo e implementação de fluxos de trabalho complexos utilizando serviços da AWS.
 
 ---
 
-## 🚀 O que são AWS Step Functions
+## O que são AWS Step Functions
 - **AWS Step Functions** é um serviço que permite **orquestrar serviços AWS** (como Lambda, SQS, SNS, ECS, etc.) em **workflows visuais**.  
 - Cada workflow é chamado de **State Machine**, que define **estados e transições** entre tarefas.
 
 ---
 
-## 📌 Principais Conceitos
+## Principais Conceitos
 
 ### 1. State Machine
 - Representa o **workflow completo**.
@@ -38,7 +38,7 @@ O objetivo deste material é servir como referência para práticas futuras, est
 
 ---
 
-## ⚙️ Benefícios do Uso
+## Benefícios do Uso
 - **Serverless**: não é necessário gerenciar infraestrutura.
 - **Visualização**: fluxos de trabalho fáceis de entender e monitorar.
 - **Escalabilidade automática**: workflows podem escalar conforme necessidade.
@@ -47,7 +47,7 @@ O objetivo deste material é servir como referência para práticas futuras, est
 
 ---
 
-## 🛠️ Exemplos de Aplicação
+## Exemplos de Aplicação
 1. Processamento de pedidos de e-commerce:
    - Recebe pedido → valida estoque → processa pagamento → notifica cliente.
 2. Workflow de ETL:
@@ -57,7 +57,7 @@ O objetivo deste material é servir como referência para práticas futuras, est
 
 ---
 
-## 📚 Recursos de Aprendizado
+## Recursos de Aprendizado
 - [Documentação Oficial AWS Step Functions](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html)
 - [Tutorial AWS Step Functions](https://aws.amazon.com/getting-started/hands-on/orchestrate-aws-services-step-functions/)
 - [Amazon States Language Overview](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-amazon-states-language.html)
@@ -65,4 +65,4 @@ O objetivo deste material é servir como referência para práticas futuras, est
 
 ---
 
-## 💡 Di
+*Projeto desenvolvido por Franciele Araújo como parte de um laboratório prático sobre AWS Step Functions.*
